@@ -1,0 +1,2 @@
+终端输入 npm i   回车  然后 npm run serve 
+ 该项目为 vue-lic 搭建的移动端网页
